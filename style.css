@@ -7,32 +7,38 @@
 }
 .red{
   background-color:indianred;
-  background-image: url("images/Hello.png")
+  background-image: url("images/Hello.png");
+  background-size: contain;
   /*Hello!*/
 }
 .blue{
   background-color: rgb(75, 188, 226);
-  background-image: url("images/Hola.png")
+  background-image: url("images/Hola.png");
+  background-size: contain;
   /*Holâ!*/
 }
 .orange{
   background-color: orange;
-  background-image: url("images/Bonjour.png")
+  background-image: url("images/Bonjour.png");
+  background-size: contain;
   /*Bonjour!*/
 }
 .purple{
   background-color: rgb(218, 76, 218);
-  background-image: url("images/GutenTag.png")
+  background-image: url("images/GutenTag.png");
+  background-size: contain;
   /*こんにちわ!*/
 }
 .green
 {
   background-color: lightgreen;
-  background-image: url("images/Konnichiwa.png")
+  background-image: url("images/Konnichiwa.png");
+  background-size: contain;
   /*Guten Tag!*/
 }
 .black{
   background-color:yellow;
-  background-image: url("images/AnnyeongHaseyo.png")
+  background-image: url("images/AnnyeongHaseyo.png");
+  background-size: contain;
   /*안녕하세요*/
 }
